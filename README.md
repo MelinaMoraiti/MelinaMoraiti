@@ -1,5 +1,5 @@
 ## 👋 Hi there
-- 👀 **I’m interested in:** Software development/engineering across various platforms using different technologies and languages with a focus on flexibility. Also I like exploring innovative applications of AI, deep learning, machine learning and parallel computing.
+- 👀 **I’m interested in:** Software engineering, AI, deep learning, machine learning and parallel computing.
 - 🌱 **I’m currently learning:** all about Next.js.
 - 😄 **Pronouns:** She/Her
 
