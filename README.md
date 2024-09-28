@@ -3,7 +3,7 @@
 - 🌱 **I’m currently learning:** all about Next.js to build our university's IEEE Student Branch website.
 - 😄 **Pronouns:** She/Her
 
-### Technologies i've gained experience:
+### Gained experience with:
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
