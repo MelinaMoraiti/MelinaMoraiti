@@ -2,7 +2,9 @@
 - 👀 **I’m interested in:** Software development/engineering across various platforms using different technologies and languages with a focus on flexibility. Also I like exploring innovative applications of AI, deep learning, machine learning and parallel computing.
 - 🌱 **I’m currently learning:** all about Next.js to build our university's IEEE Student Branch website.
 - 😄 **Pronouns:** She/Her
-Technologies i've gained experience:
+
+### Technologies i've gained experience:
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596" alt="Supabase" title="Supabase"/></code>
