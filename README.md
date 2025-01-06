@@ -1,6 +1,6 @@
 ## 👋 Hi there
-- 👀 **I’m interested in:** Software engineering, AI and high-performance parallel and distributed computing..
-- 🌱 **I’m currently learning:** all about Next.js in order to develop the IEEE UniWA Student Branch website. Also diving deep into IoT and Embedded Systems development.
+- 👀 **I’m interested in:** Software engineering, AI and high-performance parallel and distributed computing.
+- 🌱 **I’m currently learning:** all about Next.js in order to develop the IEEE UniWA Student Branch website. 
 - 😄 **Pronouns:** She/Her
 
 ### Gained experience with:
