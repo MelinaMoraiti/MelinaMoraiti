@@ -1,5 +1,5 @@
 ## 👋 Hi there
-- 👀 **I’m interested in:** Software engineering, Cloud Computing, Distributed Systems and HPC.
+- 👀 **I’m interested in:** Software Engineering/Architecture, Cloud Computing, Distributed Systems and HPC.
 - 🌱 **I’m currently learning:** all about Next.js in order to develop the IEEE UniWA Student Branch website. 
 - 😄 **Pronouns:** She/Her
 
