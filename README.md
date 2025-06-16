@@ -1,6 +1,5 @@
 ## 👋 Hi there
 - 👀 **I’m interested in:** Software Engineering/Architecture, Cloud Computing, Distributed Systems and HPC.
-- 😄 **Pronouns:** She/Her
 
 ### Gained experience with:
 
