@@ -1,5 +1,5 @@
 ## 👋 Hi there
-- 👀 **I’m interested in:** Software Engineering/Architecture, Cloud Computing, Distributed Systems and HPC.
+- 👀 **I’m interested in:** Software, Cloud, Smart Environments and Parallel Computing.
 
 ### Gained experience with:
 
