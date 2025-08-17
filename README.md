@@ -1,7 +1,7 @@
 ## 👋 Hi there
 - 👀 **I’m interested in:** Software, Cloud, Smart Environments and Parallel Computing.
 
-### Gained experience with:
+### Toolbox & technologies I have used:
 
 <div>
 	<code><img width="50" src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596" alt="Supabase" title="Supabase"/></code>
