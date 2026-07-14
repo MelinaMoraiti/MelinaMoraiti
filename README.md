@@ -1,5 +1,5 @@
 ## 👋 Hi there
-- 👀 **I’m interested in:** Software, Cloud, Smart Environments and Parallel Computing.
+- 👀 **I’m interested in:** Software, Cloud and Parallel Programming.
 
 ### Toolbox & technologies I have used:
 
